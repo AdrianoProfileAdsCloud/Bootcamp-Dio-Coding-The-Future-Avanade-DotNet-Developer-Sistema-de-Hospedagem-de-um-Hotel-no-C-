@@ -1,11 +1,13 @@
-# DIO - Trilha .NET - Explorando a linguagem C#
-www.dio.me
+# Bootcamp Dio - Coding The Future Avanade - .NET Developer
 
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de explorando a linguagem C#, da trilha .NET da DIO.
+Um projeto simples que visa demostrar toda aplicabilidade dos conhecimentos adquiridos no módulo explorando a linguagem C#, da trilha .NET.
 
 ## Contexto
-Você foi contratado para construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel. Você precisará usar a classe Pessoa, que representa o hóspede, a classe Suíte, e a classe Reserva, que fará um relacionamento entre ambos.
+Construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel com a seguinte estrutura:
+  classe Pessoa -  Para representa o hóspede.
+  classe Suíte  -  Para reprsentar  a estrutura do "quarto" a ser reservado.
+  classe Reserva - Classe que tem como função neste projeto de fazer um relacionamento entre ambos.
 
 O seu programa deverá cálcular corretamente os valores dos métodos da classe Reserva, que precisará trazer a quantidade de hóspedes e o valor da diária, concedendo um desconto de 10% para caso a reserva seja para um período maior que 10 dias.
 
