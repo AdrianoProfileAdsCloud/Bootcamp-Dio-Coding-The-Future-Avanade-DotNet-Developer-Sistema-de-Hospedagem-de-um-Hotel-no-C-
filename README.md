@@ -19,5 +19,5 @@ O programa  calcula os valores dos métodos da classe Reserva, que traz a quanti
 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+ ℹ️ **Note**
+   Foi implementado algumas funcionalidades a mais do que o solicitado, assim como o sistema de forma geral.Essas implementações extras não solicitadas, tiveram por objetivo fazer com que eu fosse pesquisar mais sobre o que me propus a implementar.Como sempre resultou em mais aprendizado e mais conhecimento para somar com os adquiridos no módulo. Um projeto bem simples mais que resultou em outros conhecimentos adquiridos no decorrer de sua implementação!
